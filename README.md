@@ -1,7 +1,4 @@
-# UCSD Demographics and GPA Disttributions
-
-###Title:  
-Family Income's Effect on GPA  
+# UCSD Demographics and GPA Distributions
 ###Authors:  
 Alex Yang  
 Halle Davis  
