@@ -31,5 +31,5 @@ http://studentresearch.ucsd.edu/publications/degrees.html
 plotly
 
 ###Final Visualizations  
-https://plot.ly/~halle.davis/196/income-and-mean-gpa-over-the-years/
+https://plot.ly/~halle.davis/196/income-and-mean-gpa-over-the-years/  
 https://plot.ly/~halle.davis/198/income-and-mean-gpa-over-the-years/
